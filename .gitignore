@@ -1,0 +1,27 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+audio
+assets/JavaScript/jquery-1.8.1.js
+images/icon16.png
+images/icon48.png
+images/icon128.png
+images/pause.png
+images/play.png
+assets/JavaScript/popup.js
+assets/JavaScript/sounds.js
+style.css
+assets/JavaScript/customInput.jquery.js
+background.html
+assets/JavaScript/background.js
+images
+assets/Css/demo.css
+manifest.json
+assets
+popup.html
