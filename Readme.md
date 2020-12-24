@@ -6,7 +6,7 @@ ASMR 크롬 플러그인
 <br><br>
 
 
-<a href="https://chrome.google.com/webstore/detail/handmade-asmr/glndjfbddleemgakpbfdbmiinlcmefjh/related">"<img src="https://img.icons8.com/cute-clipart/300/100/000000/foreign-language-sound.png"/></a>&nbsp;&nbsp;
+<a href="https://chrome.google.com/webstore/detail/handmade-asmr/glndjfbddleemgakpbfdbmiinlcmefjh/related">"<img src="https://img.icons8.com/cute-clipart/300/100/000000/foreign-language-sound.png"/></a>&nbsp;&nbsp;  ☜(ﾟヮﾟ☜) 다운받기
 
 
 
